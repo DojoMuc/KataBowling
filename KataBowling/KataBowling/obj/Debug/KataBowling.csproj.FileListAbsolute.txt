@@ -1,0 +1,9 @@
+D:\Dojo\KataBowling\KataBowling\KataBowling\bin\Debug\KataBowling.dll
+D:\Dojo\KataBowling\KataBowling\KataBowling\bin\Debug\KataBowling.pdb
+D:\Dojo\KataBowling\KataBowling\KataBowling\obj\Debug\ResolveAssemblyReference.cache
+D:\Dojo\KataBowling\KataBowling\KataBowling\obj\Debug\KataBowling.dll
+D:\Dojo\KataBowling\KataBowling\KataBowling\obj\Debug\KataBowling.pdb
+D:\Dojo\KataBowling\KataBowling\KataBowling\bin\Debug\nunit.framework.dll
+D:\Dojo\KataBowling\KataBowling\KataBowling\bin\Debug\nunit.mocks.dll
+D:\Dojo\KataBowling\KataBowling\KataBowling\bin\Debug\pnunit.framework.dll
+D:\Dojo\KataBowling\KataBowling\KataBowling\bin\Debug\nunit.framework.xml
